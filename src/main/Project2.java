@@ -105,6 +105,7 @@ public class Project2 {
                 }
             }
         }
+        scan.close();
     }
     //map each of the winning characters to a losing character
     private static final HashMap<Character, Character> winningMoves = new HashMap();
