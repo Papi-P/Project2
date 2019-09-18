@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project2;
+package level1;
 
 import java.util.HashMap;
 import java.util.Scanner;
@@ -66,7 +66,7 @@ enum errors {
  *
  * @author Daniel Allen
  */
-public class Project2 {
+public class Level1 {
 
     public static void main(String[] args) {
         //open scanner
